@@ -1,7 +1,15 @@
 # Beginner Markdown Course
 
 ## Introduction to Markdown
-Markdown is a lightweight markup language that allows you to format text using simple syntax. It is commonly used for documentation, README files, blogs, and more.
+
+
+<p style="text-align: center;">
+
+![Markdown logo](markdown-512.png)
+
+</p>
+
+Markdown was created by [John Gruber in 2004](https://daringfireball.net/projects/markdown/) and is a lightweight markup language that allows you to format text using simple syntax. It is commonly used for documentation, README files, blogs, and more.
 
 ### Why Use Markdown?
 - Easy to learn and use

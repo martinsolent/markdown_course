@@ -56,11 +56,11 @@ Use backticks (`) for inline code: `` `inline code` ``
 
 #### Code Blocks:
 Use triple backticks for code blocks:
-```markdown
+
 ```
-print("Hello, World!")
+<html>Hello World</html>
 ```
-```
+
 
 ### Blockquotes
 Use `>` for blockquotes:
@@ -73,6 +73,18 @@ Use three dashes or asterisks:
 ```markdown
 ---
 ```
+
+### Commenting
+In Markdown, there is no official comment syntax, but you can use HTML comments to add comments that will not be displayed in the rendered output.
+
+### Markdown Comment Syntax:
+```markdown
+<!-- This is a comment in Markdown -->
+```
+
+Since Markdown supports inline HTML, anything inside `<!-- -->` will be ignored in the output.
+
+Would you like me to add this to your Markdown course document? 😊
 
 ## Advanced Markdown
 
@@ -95,6 +107,3 @@ Use `\` before special characters:
 ```markdown
 \*Not Italic\*
 ```
-
-## Conclusion
-Markdown is an essential tool for developers, writers, and content creators. Practice these basics to improve your workflow and efficiency!

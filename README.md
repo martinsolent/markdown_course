@@ -5,7 +5,7 @@
 
 <p style="text-align: center;">
 
-![Markdown logo](/markdown-512.png)
+![Markdown logo](markdown-512.png)
 
 </p>
 

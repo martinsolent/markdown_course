@@ -16,6 +16,7 @@ Markdown was created by [John Gruber in 2004](https://daringfireball.net/project
 
 ### Headings
 Use `#` for headings. The number of `#` symbols determines the heading level.
+
 ```markdown
 # Heading 1
 ## Heading 2

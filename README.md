@@ -98,8 +98,3 @@ Use `\` before special characters:
 
 ## Conclusion
 Markdown is an essential tool for developers, writers, and content creators. Practice these basics to improve your workflow and efficiency!
-
----
-
-**Next Steps:** Try using Markdown in a README file or an online Markdown editor like [Dillinger](https://dillinger.io/).
-

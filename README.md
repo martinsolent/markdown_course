@@ -84,8 +84,6 @@ In Markdown, there is no official comment syntax, but you can use HTML comments 
 
 Since Markdown supports inline HTML, anything inside `<!-- -->` will be ignored in the output.
 
-Would you like me to add this to your Markdown course document? 😊
-
 ## Advanced Markdown
 
 ### Tables

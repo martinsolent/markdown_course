@@ -4,8 +4,6 @@
 
 ![Markdown logo](img/markdown-512.png)
 
-![link_to_gitHub_example](github_profile_img/link_to_gitHub_example.png)
-
 Markdown was created by [John Gruber in 2004](https://daringfireball.net/projects/markdown/) and is a lightweight markup language that allows you to format text using simple syntax. It is commonly used for documentation, README files, blogs, and more.
 
 ### Why Use Markdown?

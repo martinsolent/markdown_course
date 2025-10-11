@@ -77,14 +77,47 @@ Use `#` for headings. The number of `#` symbols determines the heading level.
 
 ### Code Blocks
 #### Inline Code:
-Use backticks (`) for inline code: `` `inline code` ``
+Use backticks for `` `inline code:` `` will show: `inline code:`
 
 #### Code Blocks:
-Use triple backticks for code blocks:
+**Instructions:** Use triple backticks for code blocks:
+
+````markdown
+```
+<html>Hello World</html>
+```
+````
+**Will display this:**
 
 ```
 <html>Hello World</html>
 ```
+
+
+**To show this:**
+
+````markdown
+```
+<html>Hello World</html>
+```
+````
+
+**You need to type this:**
+
+`````markdown
+````markdown
+```
+<html>Hello World</html>
+```
+````
+`````
+
+**Why 4 backticks and "markdown"?**
+- **4 backticks:** When showing code that contains 3 backticks, you need to use 4 backticks (or more) to wrap the outer code block
+- **"markdown":** This tells the system what language the code is written in for proper syntax highlighting
+
+
+
 
 
 ### Blockquotes
@@ -127,8 +160,8 @@ Since Markdown supports inline HTML, anything inside `<!-- -->` will be ignored 
 
 ### Task Lists
 
-- [x] Completed Task
-- [ ] Incomplete Task
+- [ ] Completed Task
+- [x] Incomplete Task
 
 ```markdown
 - [x] Completed Task

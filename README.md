@@ -112,6 +112,12 @@ Since Markdown supports inline HTML, anything inside `<!-- -->` will be ignored 
 ## Advanced Markdown
 
 ### Tables
+
+| Column 1 | Column 2 | Column 3 |
+|----------|----------|----------|
+| Data 1   | Data 2   | Data 3   |
+| Data 4   | Data 5   | Data 6   |
+
 ```markdown
 | Column 1 | Column 2 | Column 3 |
 |----------|----------|----------|
@@ -120,6 +126,10 @@ Since Markdown supports inline HTML, anything inside `<!-- -->` will be ignored 
 ```
 
 ### Task Lists
+
+- [x] Completed Task
+- [ ] Incomplete Task
+
 ```markdown
 - [x] Completed Task
 - [ ] Incomplete Task

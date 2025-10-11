@@ -17,11 +17,17 @@ Markdown was created by [John Gruber in 2004](https://daringfireball.net/project
 ### Headings
 Use `#` for headings. The number of `#` symbols determines the heading level.
 
+# Heading 1
+## Heading 2
+### Heading 3
+
 ```markdown
 # Heading 1
 ## Heading 2
 ### Heading 3
 ```
+
+
 
 ### Bold and Italics
 - **Bold:** `**bold text**` or `__bold text__`
@@ -30,6 +36,12 @@ Use `#` for headings. The number of `#` symbols determines the heading level.
 
 ### Lists
 #### Unordered List:
+
+- Item 1
+- Item 2
+  - Sub-item 1
+  - Sub-item 2
+
 ```markdown
 - Item 1
 - Item 2
@@ -37,6 +49,12 @@ Use `#` for headings. The number of `#` symbols determines the heading level.
   - Sub-item 2
 ```
 #### Ordered List:
+
+1. First item
+2. Second item
+   1. Sub-item 1
+   2. Sub-item 2
+
 ```markdown
 1. First item
 2. Second item
@@ -45,6 +63,9 @@ Use `#` for headings. The number of `#` symbols determines the heading level.
 ```
 
 ### Links
+
+[Link Text](#)
+
 ```markdown
 [Link Text](https://example.com)
 ```
